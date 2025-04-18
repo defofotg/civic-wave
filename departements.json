@@ -1,0 +1,163 @@
+{
+  "litorral": {
+    "nom": "Littoral",
+    "localisation": "Région du Littoral",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale Littoral",
+      "localisation": "Deido Bonatone"
+    },
+    "departements": [
+      { "nom": "Moungo" },
+      { "nom": "Nkam" },
+      { "nom": "Sanaga Maritime" },
+      { "nom": "Wouri" }
+    ]
+  },
+  "centre": {
+    "nom": "Centre",
+    "localisation": "Région du Centre",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale Centre",
+      "localisation": "Province. 200 m de la nouvelle préfecture"
+    },
+    "departements": [
+      { "nom": "Nyong et Mfoumou" },
+      { "nom": "Nyong et So'o" },
+      { "nom": "Mefou et Akono" },
+      { "nom": "Mfoundi" },
+      { "nom": "Nyong et Kelle" },
+      { "nom": "Mbam et Inoubou" },
+      { "nom": "Mbam et Kim" },
+      { "nom": "Mefou et Afamba" },
+      { "nom": "Haute Sanaga" },
+      { "nom": "Lekie" }
+    ]
+  },
+  "ouest": {
+    "nom": "Ouest",
+    "localisation": "Région de l'Ouest",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale Ouest",
+      "localisation": "Province. 200 m de la nouvelle préfecture"
+    },
+    "departements": [
+      { "nom": "Bamboutos" },
+      { "nom": "Haut-Nkam" },
+      { "nom": "Hauts-Plateaux" },
+      { "nom": "Koung-Khi" },
+      { "nom": "Menoua" },
+      { "nom": "Mifi" },
+      { "nom": "Ndé" },
+      { "nom": "Noun" }
+    ]
+  },
+  "extrême-nord": {
+    "nom": "Extrême-Nord",
+    "localisation": "Région de l'Extrême-nord",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale de l'Extrême-nord",
+      "localisation": "Quartier Djarengol-Pitoaré, à côté du GMI et du camp SODECOTON"
+    },
+    "departements": [
+      { "nom": "Diamare" },
+      { "nom": "Logone et Chari" },
+      { "nom": "Mayo-Danay" },
+      { "nom": "Mayo-Kani" },
+      { "nom": "Mayo-Sava" },
+      { "nom": "Mayo-Tsanaga" },
+      { "nom": "Ndé" },
+      { "nom": "Noun" }
+    ]
+  },
+  "nord": {
+    "nom": "Nord",
+    "localisation": "Région du Nord",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale du Nord",
+      "localisation": "Quartier Plateau, à côté de la Préfecture"
+    },
+    "departements": [
+      { "nom": "Bénoué" },
+      { "nom": "Faro" },
+      { "nom": "Mayo-Louti" },
+      { "nom": "Mayo-Rey" }
+    ]
+  },
+  "nord-ouest": {
+    "nom": "Nord-Ouest",
+    "localisation": "Région du Nord-Ouest",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale du Nord-Ouest",
+      "localisation": "New road GRA 200m after Amiralty hotel"
+    },
+    "departements": [
+      { "nom": "Boyo" },
+      { "nom": "Bui" },
+      { "nom": "Donga-Mantung" },
+      { "nom": "Menchum" },
+      { "nom": "Mezam" },
+      { "nom": "Momo" },
+      { "nom": "Ngoketunjia" }
+    ]
+  },
+  "sud-ouest": {
+    "nom": "Sud-Ouest",
+    "localisation": "Région du Sud-Ouest",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale du Sud-Ouest",
+      "localisation": "Police round about opposite BICEC"
+    },
+    "departements": [
+      { "nom": "Fako" },
+      { "nom": "Muanenguba" },
+      { "nom": "Lebialem" },
+      { "nom": "Manyu" },
+      { "nom": "Meme" },
+      { "nom": "Momo" },
+      { "nom": "Ndian" }
+    ]
+  },
+  "adamaoua": {
+    "nom": "Adamaoua",
+    "localisation": "Région de l'Adamaoua",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale de l'Adamaoua",
+      "localisation": "Quartier résidentiel, entre l'hopital régional et la CRTV, dans l'ancienne résidence des maires"
+    },
+    "departements": [
+      { "nom": "Djerem" },
+      { "nom": "Faro et Deo" },
+      { "nom": "Mayo Banyo" },
+      { "nom": "Mbere" },
+      { "nom": "Vina" }
+    ]
+  },
+  "est": {
+    "nom": "Est",
+    "localisation": "Région de l'Est",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale de l'Est",
+      "localisation": "Quartier Mokolo 1 Derrière Camtel"
+    },
+    "departements": [
+      { "nom": "Boumba et Ngoko" },
+      { "nom": "Haut Nyong" },
+      { "nom": "Kadey" },
+      { "nom": "Lom et Djerem" }
+    ]
+  },
+  "sud": {
+    "nom": "Sud",
+    "localisation": "Région du Sud",
+    "delegation_regionale": {
+      "nom": "Délégation Régionale du Sud",
+      "localisation": "Quartier Angalé en face du 11ème BCS d'Ebolowa"
+    },
+    "departements": [
+      { "nom": "Dja et Lobo" },
+      { "nom": "Mvila" },
+      { "nom": "Océan" },
+      { "nom": "Vallée du Ntem" }
+    ]
+  }
+}

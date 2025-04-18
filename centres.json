@@ -1,0 +1,2133 @@
+{
+  "moungo": {
+    "nom": "Moungo",
+    "centres": [
+      {
+        "nom": "Agence départementale Baré-Bakem",
+        "localisation": "Nationale n°5 non loin de la station service Bocom"
+      },
+      {
+        "nom": "AC Baré-Bakem",
+        "localisation": "À EROH-Baré, Ancienne Sous-préfecture"
+      },
+      {
+        "nom": "AC Bonalea",
+        "localisation": "Face Collège Herbert de SOUZA"
+      },
+      {
+        "nom": "AC Dibombari",
+        "localisation": "Face ancienne Mairie"
+      },
+      {
+        "nom": "AC Ebone",
+        "localisation": "Sur la nationale n°5, entrée Sous-Préfecture"
+      },
+      { "nom": "AC Loum", "localisation": "À côté de la Campost" },
+      { "nom": "AC Manjo", "localisation": "Derrière la Mairie" },
+      {
+        "nom": "AC Mbanga",
+        "localisation": "Sur la nationale n°5 à 150 m de la Gendarmerie"
+      },
+      {
+        "nom": "AC Melong",
+        "localisation": "À quelques mètres de la Sous-préfecture"
+      },
+      {
+        "nom": "AC Mombo",
+        "localisation": "À 150 m de la Sous-préfecture"
+      },
+      {
+        "nom": "AC Nkongsamba1",
+        "localisation": "Face Prison principale de Nkongsamba"
+      },
+      {
+        "nom": "AC Nkongsamba2",
+        "localisation": "À côté de l’Hôtel le Moungo"
+      },
+      {
+        "nom": "AC Nkongsamba3",
+        "localisation": "Au rez-de-chaussée de l’Agence ELECAM Moungo"
+      },
+      {
+        "nom": "AC Njombe-Penja",
+        "localisation": "À 10 mètres de l’inspection de l’éducation de base"
+      }
+    ]
+  },
+  "nkam": {
+    "nom": "Nkam",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "À côté de la gare routière de Yabassi"
+      },
+      {
+        "nom": "AC Nord Makombe",
+        "localisation": "À 100 m de la Sous-Préfecture"
+      },
+      {
+        "nom": "AC Nkondjock",
+        "localisation": "Face Gendarmerie de Nkondjock"
+      },
+      {
+        "nom": "AC Yabassi",
+        "localisation": "À 150m du stade municipal"
+      },
+      { "nom": "AC Yingui", "localisation": "Face Lycée de Yingui" }
+    ]
+  },
+  "sanaga maritime": {
+    "nom": "Sanaga Maritime",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "À 200m de la Mairie de Ville d’Edea"
+      },
+      {
+        "nom": "AC Dibamba",
+        "localisation": "À côté du temple EEC de Logbadjeck"
+      },
+      {
+        "nom": "AC Dizangue",
+        "localisation": "Au quartier Beach – Kassala"
+      },
+      {
+        "nom": "AC Edéa 1",
+        "localisation": "Au Rez-de-chaussée de l’Agence Départementale d’ELECAM"
+      },
+      {
+        "nom": "AC Edéa 2",
+        "localisation": "À la Cité des Cadres ex-CELLUCAM"
+      },
+      {
+        "nom": "AC Massock-Songoloulou",
+        "localisation": "En face de la Sous-Préfecture"
+      },
+      {
+        "nom": "AC Mouanko",
+        "localisation": "Au quartier Lobethal à côté de l’ONG WCS"
+      },
+      {
+        "nom": "AC Ndom",
+        "localisation": "Derrière l’Hôpital de district, montée résidence du Sous-préfet"
+      },
+      {
+        "nom": "AC Ngambe",
+        "localisation": "Non loin du Lycée Classique de Ngambe"
+      },
+      {
+        "nom": "AC Ngwei",
+        "localisation": "Face centre commercial de Makondo"
+      },
+      {
+        "nom": "AC Nyanon",
+        "localisation": "Quartier Logbikoy, à côté de la paroisse de l’église catholique Christ Roi et en face du collège Saint Bruno"
+      },
+      {
+        "nom": "AC Pouma",
+        "localisation": "Face tribune officielle, locaux ancienne Mairie"
+      }
+    ]
+  },
+  "wouri": {
+    "nom": "Wouri",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "Derrière la Mairie, à côté de la délégation d’arrondissement de la jeunesse, avant le marché des Chèvres de NEW-BELL"
+      },
+      {
+        "nom": "AC Douala 1",
+        "localisation": "Akwa, face FAYADORT, rue de la casse"
+      },
+      {
+        "nom": "AC Douala 2",
+        "localisation": "Derrière la Mairie, à côté de la délégation d’arrondissement de la jeunesse, avant le marché des Chèvres de NEW-BELL"
+      },
+      {
+        "nom": "AC Douala 3",
+        "localisation": "Bâtiment annexe de la Mairie de Douala 3ème"
+      },
+      {
+        "nom": "AC Douala 4",
+        "localisation": "Ancienne route Face Compagnie de la Gendarmerie de Bonaberi"
+      },
+      {
+        "nom": "AC Douala 5",
+        "localisation": "Bonamoussadi-Santa Barbara Bloc 12, face Centre divisionnaire des impôts"
+      },
+      {
+        "nom": "AC Douala 6",
+        "localisation": "Centre administratif face Brigade de Gendarmerie et perception de Manoka"
+      }
+    ]
+  },
+  "nyong et mfoumou": {
+    "nom": "Nyong et Mfoumou",
+    "centres": [
+      {
+        "nom": "AC Akonolinga",
+        "localisation": "À côté de l’Hôtel de ville d’Akonolinga"
+      },
+      {
+        "nom": "AC Ayos",
+        "localisation": "Nlong’Assi. Avant le pont"
+      },
+      {
+        "nom": "AC Endom",
+        "localisation": "Bloc 3 Derrière le marché"
+      },
+      {
+        "nom": "AC Kobdombo",
+        "localisation": "Tombo. À côté de la résidence du feu pasteur Ekanga"
+      },
+      {
+        "nom": "AC Mengang",
+        "localisation": "Okon. Entrée du collège Ebogo T."
+      }
+    ]
+  },
+  "nyong et so'o": {
+    "nom": "Nyong et So'o",
+    "centres": [
+      {
+        "nom": "AC Akoeman",
+        "localisation": "Face ancienne gendarmerie"
+      },
+      {
+        "nom": "AC Dzeng",
+        "localisation": "Face résidence du Sous-préfet"
+      },
+      {
+        "nom": "AC Mbalmayo",
+        "localisation": "À côté de la résidence du Maire"
+      },
+      {
+        "nom": "AC Mengueme",
+        "localisation": "Ancienne Mairie, Face Chefferie"
+      },
+      { "nom": "AC Ngomedzap", "localisation": "Derrière l’Hôpital" },
+      {
+        "nom": "AC Nkolmetet",
+        "localisation": "Avant la gendarmerie"
+      }
+    ]
+  },
+  "mefou et akono": {
+    "nom": "Mefou et Akono",
+    "centres": [
+      { "nom": "AC Akono", "localisation": "Face sous-préfecture" },
+      {
+        "nom": "AC Bikok",
+        "localisation": "Cité municipale de bikok"
+      },
+      {
+        "nom": "AC Mbankomo",
+        "localisation": "Derrière l’ancien péage"
+      },
+      {
+        "nom": "AC Ngoumou",
+        "localisation": "Même bâtiment que l’Agence (soit 200m de la Ss-Préfecture)"
+      }
+    ]
+  },
+  "mfoundi": {
+    "nom": "Mfoundi",
+    "centres": [
+      {
+        "nom": "AC Yaoundé I",
+        "localisation": "Mbala I Face Dragage"
+      },
+      {
+        "nom": "AC Yaoundé II",
+        "localisation": "Derrière station TOTAL Nkomkana"
+      },
+      {
+        "nom": "AC Yaoundé III",
+        "localisation": "Après la traversée du pont Efoulan (à droite)"
+      },
+      {
+        "nom": "AC Yaoundé IV",
+        "localisation": "Essomba. À côté de l’hotel le FIBI"
+      },
+      {
+        "nom": "AC Yaoundé V",
+        "localisation": "Avant la brigade Nkolmesseng"
+      },
+      {
+        "nom": "AC Yaoundé VI",
+        "localisation": "Biyem Assi Montée maison blanche face Auto-école Julita"
+      },
+      {
+        "nom": "AC Yaoundé VII",
+        "localisation": "Face entrée chapelle Oyomabang"
+      }
+    ]
+  },
+  "nyong et kelle": {
+    "nom": "Nyong et Kelle",
+    "centres": [
+      {
+        "nom": "AC Biyouha",
+        "localisation": "À côté de la sous-préfecture"
+      },
+      {
+        "nom": "AC Bondjock",
+        "localisation": "À côté de la sous-préfecture"
+      },
+      { "nom": "AC Bot Makak", "localisation": "En face de la CDE" },
+      {
+        "nom": "AC Dibang",
+        "localisation": "À côté de l’église protestante"
+      },
+      {
+        "nom": "AC Eseka",
+        "localisation": "Avant la place des fêtes"
+      },
+      {
+        "nom": "AC Makak",
+        "localisation": "Ancienne sous-préfecture"
+      },
+      {
+        "nom": "AC Matomb",
+        "localisation": "Derrière la gendarmerie"
+      },
+      {
+        "nom": "AC Messondo",
+        "localisation": "Avant la sous-préfecture"
+      },
+      {
+        "nom": "AC Ngog Mapubi",
+        "localisation": "À côté de la résidence du Sous-préfet"
+      },
+      { "nom": "AC Nguibassal", "localisation": "Près de la Mairie" }
+    ]
+  },
+  "mbam et inoubou": {
+    "nom": "Mbam et Inoubou",
+    "centres": [
+      {
+        "nom": "AC Bafia",
+        "localisation": "Ancienne commune rurale"
+      },
+      {
+        "nom": "AC Bokito",
+        "localisation": "Près de la gendarmerie"
+      },
+      {
+        "nom": "AC Deuk",
+        "localisation": "Près de la résidence du Sous-préfet"
+      },
+      { "nom": "AC Kiiki", "localisation": "En face de la Mairie" },
+      {
+        "nom": "AC Kon Yambetta",
+        "localisation": "Après le Carrefour en allant vers Bafoussam"
+      },
+      {
+        "nom": "AC Makénéné",
+        "localisation": "En face de la mairie"
+      },
+      {
+        "nom": "AC Ndikiniméki",
+        "localisation": "Près de la brigade de gendarmerie"
+      },
+      {
+        "nom": "AC Nitokou",
+        "localisation": "Camp des sœurs catholiques"
+      },
+      {
+        "nom": "AC Ombessa",
+        "localisation": "Derrière la sous-préfecture"
+      }
+    ]
+  },
+  "mbam et kim": {
+    "nom": "Mbam et Kim",
+    "centres": [
+      {
+        "nom": "AC Mbangassina",
+        "localisation": "En face du Lycée de Mbangassina"
+      },
+      {
+        "nom": "AC Ngambe Tikar",
+        "localisation": "Face gendarmerie"
+      },
+      {
+        "nom": "AC Ngoro",
+        "localisation": "300 m de la brigade de gendarmerie (Entrée de la ville)"
+      },
+      {
+        "nom": "AC Ntui",
+        "localisation": "Derrière le Palais de justice"
+      },
+      {
+        "nom": "AC Yoko",
+        "localisation": "Entre l’Hôpital de district et la Mairie"
+      }
+    ]
+  },
+  "mefou et afamba": {
+    "nom": "Mefou et Afamba",
+    "centres": [
+      {
+        "nom": "AC Afanloum",
+        "localisation": "Vers la résidence du chef de district"
+      },
+      { "nom": "AC Awae", "localisation": "Après la gendarmerie" },
+      {
+        "nom": "AC Ezendouan",
+        "localisation": "Près de la résidence du sous-préfet"
+      },
+      {
+        "nom": "AC Esse",
+        "localisation": "En face de la paroisse Saint-Joseph"
+      },
+      {
+        "nom": "AC Mfou",
+        "localisation": "Lieu-dit fin goudron face Délégation Départementale des domaines, du cadastre et des Affaires foncières"
+      },
+      {
+        "nom": "AC Nkolafamba",
+        "localisation": "Derrière la brigade de la gendarmerie"
+      },
+      {
+        "nom": "AC Olanguina",
+        "localisation": "Après la gendarmerie"
+      },
+      { "nom": "AC Soa", "localisation": "Montée de la Mairie" }
+    ]
+  },
+  "haute sanaga": {
+    "nom": "Haute Sanaga",
+    "centres": [
+      {
+        "nom": "AC Bibey",
+        "localisation": "Centre-ville. Sur la rue du marché"
+      },
+      {
+        "nom": "AC Lembe Yezooum",
+        "localisation": "Derrière la chefferie supérieure"
+      },
+      { "nom": "AC Mbandjock", "localisation": "Ancienne brigade" },
+      { "nom": "AC Minta", "localisation": "Place des fêtes" },
+      {
+        "nom": "AC Nanga Eboko",
+        "localisation": "Face hôtel de ville"
+      },
+      {
+        "nom": "AC Nkoteng",
+        "localisation": "Quartier administratif. Derrière la gare routière"
+      },
+      { "nom": "AC Nsem", "localisation": "Église adventiste Nsem I" }
+    ]
+  },
+  "lekie": {
+    "nom": "Lekié",
+    "centres": [
+      { "nom": "AC Batchenga", "localisation": "Rue de la Mairie" },
+      {
+        "nom": "AC Ebebda",
+        "localisation": "Axe lourd. Avant la gendarmerie"
+      },
+      {
+        "nom": "AC Elig Mfomo",
+        "localisation": "À côté de la brigade de gendarmerie"
+      },
+      {
+        "nom": "AC Evodoula",
+        "localisation": "En face de la gendarmerie"
+      },
+      {
+        "nom": "AC Lobo",
+        "localisation": "Ancien bureau du chef de district"
+      },
+      {
+        "nom": "AC Monatélé",
+        "localisation": "Après la mission Catholique"
+      },
+      { "nom": "AC Obala", "localisation": "Place des fêtes" },
+      {
+        "nom": "AC Okola",
+        "localisation": "Ancienne sous-préfecture"
+      },
+      { "nom": "AC Sa’a", "localisation": "Face ENEO" }
+    ]
+  },
+  "bamboutos": {
+    "nom": "Bamboutos",
+    "centres": [
+      {
+        "nom": "Agence Départementale des BAMBOUTOS",
+        "localisation": "Sur la nationale n°6, route Bafoussam - Bamenda, logée sur l'immeuble CONGELCAM"
+      },
+      {
+        "nom": "AC Babadjou",
+        "localisation": "Quartier King Place, à 100m de l’Agence EXPRESS UNION",
+        "regroupements": [
+          "KING PLACE",
+          "BAMENDJINGHA",
+          "MONYE-MADJUI",
+          "MANTSET",
+          "DJINGHA",
+          "SO’O",
+          "MOPPI",
+          "BAMELO",
+          "BAWA",
+          "BAMEDOUSSO",
+          "BAMEKOUE",
+          "BAMEDJI",
+          "BAMENTO GOUNG",
+          "BAMENYA",
+          "BALEPO",
+          "TOOPELOU",
+          "NGAYONG",
+          "BACHUA",
+          "BAMEDJOU",
+          "TOUNGA"
+        ]
+      },
+      {
+        "nom": "AC Batcham",
+        "localisation": "Centre Administratif, ancien centre de la Jeunesse de Batcham",
+        "regroupements": ["BAMOUGONG", "BATCHAM", "BANGANG"]
+      },
+      {
+        "nom": "AC Galim",
+        "localisation": "Centre Administratif, à côté de l’Inspection Communale de l’Éducation de Base et du Commissariat",
+        "regroupements": ["BAGAM", "BAMENYAM", "BATI", "BAMEDJIN"]
+      },
+      {
+        "nom": "AC Mbouda",
+        "localisation": "Nationale n°6, route Bafoussam-Bamenda, immeuble CONGELCAM",
+        "regroupements": [
+          "BAFOUNDA",
+          "BAMENDJO",
+          "BAMENKOMBO",
+          "BABETE",
+          "BAMENDJINDA",
+          "BAMESSO",
+          "BALATCHI",
+          "BAMESSINGUE",
+          "CENTRE URBAIN MBOUDA"
+        ]
+      }
+    ]
+  },
+  "haut-nkam": {
+    "nom": "Haut-Nkam",
+    "centres": [
+      {
+        "nom": "Agence Départementale du HAUT-NKAM",
+        "localisation": "Sur l'axe Bafang - Douala, immeuble KAMGA, à 200m de l'entrée de la chefferie Bafang"
+      },
+      {
+        "nom": "AC Bafang",
+        "localisation": "À proximité de la Préfecture de Bafang, Immeuble",
+        "regroupements": [
+          "BAFANG",
+          "BABOUTCHA NITCHEU",
+          "BABONE",
+          "BABOUTCHEU NGALEU",
+          "BANKONDJI",
+          "BASSAP"
+        ]
+      },
+      {
+        "nom": "AC Bakou",
+        "localisation": "Axe Bafang - Nkondjock, route du Lycée de Bakou, derrière le marché",
+        "regroupements": [
+          "BAKOU FOTSINGA",
+          "FONDJANTI",
+          "BALACK",
+          "LOUM",
+          "FOPOUANGA",
+          "BAKAMBE",
+          "KOBA",
+          "KOMAKO",
+          "BABOUTCHA FONGANG"
+        ]
+      },
+      {
+        "nom": "AC Bana",
+        "localisation": "Quartier Konté sur l’axe lourd Bafang-Yaoundé, à côté de l’Église EEC",
+        "regroupements": ["BANA", "BATCHE", "BAKASSA", "BADOUMKASSA"]
+      },
+      {
+        "nom": "AC Bandja",
+        "localisation": "Axe Bafang-Bafoussam, à la montée de la Sous-Préfecture de Bandja",
+        "regroupements": [
+          "BANDJA",
+          "FOTOUNI",
+          "FONDANTI",
+          "FONDJOMEKWET",
+          "BABOUANTOU"
+        ]
+      },
+      {
+        "nom": "AC Banka",
+        "localisation": "Axe lourd Bafang-Yaoundé, à 100 m du poste de Gendarmerie",
+        "regroupements": [
+          "BANKA",
+          "BANFEKO",
+          "BABOATE",
+          "BANFELKOUK",
+          "FOLENTCHA",
+          "FONGOLI",
+          "BANDUMKA"
+        ]
+      },
+      {
+        "nom": "AC Banwa",
+        "localisation": "Face à la Sous-Préfecture de Banwa, à côté de la place des fêtes",
+        "regroupements": [
+          "FOMBELE",
+          "BAKONTI",
+          "BAPOUNGUE",
+          "FONTI",
+          "FOMESSA",
+          "BAYON FOMESSA",
+          "FOTSI",
+          "FONSI",
+          "BAMELECK",
+          "FOYAVE"
+        ]
+      },
+      {
+        "nom": "AC Kekem",
+        "localisation": "Axe Douala-Bafang, à 100 m de la Mairie de Kekem",
+        "regroupements": [
+          "KEKEM",
+          "MBOEBO",
+          "FOYEMETCHA",
+          "FONDJOUKOU",
+          "BAMEWINGI",
+          "BALEMBO",
+          "KOUAKEM"
+        ]
+      }
+    ]
+  },
+  "hauts-plateaux": {
+    "nom": "Hauts-Plateaux",
+    "centres": [
+      {
+        "nom": "Agence Départementale des HAUTS-PLATEAUX",
+        "localisation": "Baham sur la route menant à la préfecture, en face de l'entrée du marché BAHAM"
+      },
+      {
+        "nom": "AC Baham",
+        "localisation": "Sur la route menant à la Préfecture, en face de l’entrée du marché de Baham",
+        "regroupements": [
+          "BAHAM",
+          "POUMZE",
+          "LAAGWEU",
+          "DEMGO",
+          "BOUKUE",
+          "HIALA",
+          "MEDJA",
+          "CHEFFOU",
+          "KAFFO",
+          "SOOU",
+          "WOUOM",
+          "DJEMGHEU",
+          "GOUGOUA",
+          "CHENGNE",
+          "HOO",
+          "PII",
+          "KAA"
+        ]
+      },
+      {
+        "nom": "AC Bamendjou",
+        "localisation": "Ancienne Mairie",
+        "regroupements": ["BAMENDJOU", "BAHOUAN", "BAMEKA", "BANGAM"]
+      },
+      {
+        "nom": "AC Bangou",
+        "localisation": "Quartier Administratif, Immeuble ancienne Mairie",
+        "regroupements": ["BANGOU", "BANDENKOP", "BAPA"]
+      },
+      {
+        "nom": "AC Batié",
+        "localisation": "À 100m du Carrefour rat, quartier Djdem sur route Douala - Bafoussam",
+        "regroupements": [
+          "BAFAMGOUM I",
+          "BAFAMGOUM II",
+          "BAHIALA",
+          "BALAGOU I",
+          "BALAGOU II",
+          "BADJEUGOU",
+          "BALIG",
+          "BATCHEPANG",
+          "BAMETCHECTHA",
+          "BAMEUTCHOUET FODOM"
+        ]
+      }
+    ]
+  },
+  "koung-khi": {
+    "nom": "Koung-Khi",
+    "centres": [
+      {
+        "nom": "Agence Départementale du KOUNG-KHI",
+        "localisation": "Lieu-dit 'Carrefour du lycée', derrière la préfecture de Bandjoun, sur l'embranchement menant à l'hôpital AD LUCEM"
+      },
+      {
+        "nom": "AC Bayangam",
+        "localisation": "Axe lourd Bafoussam-Yaoundé, ancien péage de Bayangam",
+        "regroupements": ["BAYANGAM", "BATOUFAM", "BANDREFAM"]
+      },
+      {
+        "nom": "AC Djebem",
+        "localisation": "Route de la Mairie, à 100 m de la Gendarmerie",
+        "regroupements": [
+          "BANGANG FONDJI",
+          "FONEGOM",
+          "FOMAYUM",
+          "MOUTCHA",
+          "DJIKO-FAMLA",
+          "FAMTUM",
+          "DJIKO-MAGUE",
+          "SEDEMBOM",
+          "PALMERAIES",
+          "FAMWOUO",
+          "DJIOGO"
+        ]
+      },
+      {
+        "nom": "AC Pete-Bandjoun",
+        "localisation": "Bandjoun, rez-de-chaussée de l’immeuble abritant l’Agence Départementale ELECAM/Koung-Khi",
+        "regroupements": [
+          "DJIOMGHOUO",
+          "DJIONE",
+          "DOMLO",
+          "FAMLENG",
+          "HA’A",
+          "HOUA",
+          "HOUPTOUO",
+          "KATSELA",
+          "KAMGO",
+          "KAYO",
+          "KAKOUO",
+          "KENG",
+          "KING PLACE",
+          "LEMGO",
+          "LEMLA",
+          "MAGOM",
+          "MBIENG",
+          "MBIENTI",
+          "MBETMUM",
+          "MBOUO I",
+          "MBOUO II",
+          "MOUWE",
+          "MITEKI",
+          "PETE",
+          "SEKAKOUO",
+          "SOULANG",
+          "TSESE",
+          "TOKOLOU",
+          "TOUPOBA",
+          "TOTSELA",
+          "TSE",
+          "TSECHA",
+          "TSEGHEM",
+          "TSELENG"
+        ]
+      }
+    ]
+  },
+  "menoua": {
+    "nom": "Menoua",
+    "centres": [
+      {
+        "nom": "Agence Départementale de la MENOUA",
+        "localisation": "Derrière la préfecture de la Menoua"
+      },
+      {
+        "nom": "AC Dschang",
+        "localisation": "Immeuble abritant l’Agence Départementale de la Menoua",
+        "regroupements": [
+          "FOTO",
+          "FOREKE DSCHANG",
+          "FONGO NDENG",
+          "FOSSONG WENTCHENG",
+          "FOTETSA"
+        ]
+      },
+      {
+        "nom": "AC Fokoué",
+        "localisation": "MC² de Fokoué, près du Ministère des Affaires Sociales",
+        "regroupements": [
+          "BAMEGWOU",
+          "FOKOUE",
+          "FOMOPEA",
+          "FONSTA",
+          "TOUALA",
+          "FOTOMENA"
+        ]
+      },
+      {
+        "nom": "AC Fongo-Tongo",
+        "localisation": "Quartier Mboua, face Marché de Fongo-Tongo, route venant de la Sous-Préfecture",
+        "regroupements": ["FONGO-TONGO", "FOSSONG ELELEM"]
+      },
+      {
+        "nom": "AC Nkong-Ni",
+        "localisation": "Entre la Mairie et la Sous-préfecture",
+        "regroupements": ["BAFOU", "BALEVENG"]
+      },
+      {
+        "nom": "AC Penka-Michel",
+        "localisation": "Quartier Plateau, sur la route du Lycée Bilingue, vers la résidence du Maire",
+        "regroupements": ["BANSOA", "BAMENDOU", "BALESSING", "BALOUM"]
+      },
+      {
+        "nom": "AC Santchou",
+        "localisation": "Axe Santchou-Ngwatta, après la Sous-préfecture",
+        "regroupements": ["SANTCHOU (SAN-ZOH)", "FONDONERA", "FOMBAP"]
+      }
+    ]
+  },
+  "mifi": {
+    "nom": "Mifi",
+    "centres": [
+      {
+        "nom": "Agence Départementale de la MIFI",
+        "localisation": "Borne fontaine de FAMLA, Immeuble KAMDEM NANA Thaddee"
+      },
+      {
+        "nom": "AC Bafoussam I",
+        "localisation": "Quartier Tamdja, Tribune de la place des fêtes",
+        "groupements": ["Centre urbain de Bafoussam"]
+      },
+      {
+        "nom": "AC Bafoussam II",
+        "localisation": "Baleng, entre le Garage Militaire et l’immeuble interministériel",
+        "groupements": [
+          "BALENG",
+          "BAPI",
+          "BANDENG",
+          "UNE PARTIE DU CENTRE URBAIN DE BAFOUSSAM"
+        ]
+      },
+      {
+        "nom": "AC Bafoussam III",
+        "localisation": "Kamtok, sur la route menant à la SCS SA",
+        "groupements": [
+          "BAMOUGOUM",
+          "UNE PARTIE DU CENTRE URBAIN DE BAFOUSSAM"
+        ]
+      }
+    ]
+  },
+  "ndé": {
+    "nom": "Ndé",
+    "centres": [
+      {
+        "nom": "Agence Départementale du NDE",
+        "localisation": "Derrière la prison de Bangangté"
+      },
+      {
+        "nom": "AC Bangangté",
+        "localisation": "En face de la Délégation du MINEPIA",
+        "groupements": [
+          "BANGANGTÉ",
+          "BANGANG-FOKAM",
+          "BANGOULAP",
+          "BAMENA",
+          "BAHOUOC",
+          "BANGOUA",
+          "BATCHINGOU"
+        ]
+      },
+      {
+        "nom": "AC Bassamba",
+        "localisation": "Quartier n°3 route de l’Église Évangélique",
+        "groupements": ["BADOUBO", "TANKOU", "POSSA", "NGNANBO"]
+      },
+      {
+        "nom": "AC Bazou",
+        "localisation": "Centre commercial Ndjipta, route de la Sous-préfecture",
+        "groupements": [
+          "BAZOU",
+          "BALENGOU",
+          "BAKONG",
+          "BAGNOUN",
+          "MAHA"
+        ]
+      },
+      {
+        "nom": "AC Tonga",
+        "localisation": "Quartier n°3, à côté de la gendarmerie",
+        "groupements": ["BANOUMSÀ", "BABITCHOUA", "BALLOUA"]
+      }
+    ]
+  },
+  "noun": {
+    "nom": "Noun",
+    "centres": [
+      {
+        "nom": "Agence Départementale du NOUN",
+        "localisation": "En retrait de l'axe principal, derrière la préfecture de Foumban, près de l'école japonaise, sur la route menant au centre artisanal"
+      },
+      {
+        "nom": "AC Bangourain",
+        "localisation": "En face de la Mosquée Centrale",
+        "groupements": [
+          "BANGOURAIN",
+          "BANGAMBI",
+          "KOUHOUAT",
+          "KOUROM",
+          "KOUNGBA",
+          "KOUMBAN",
+          "KOUPKOMAKI",
+          "KOUPKOUOMAKI 2"
+        ]
+      },
+      {
+        "nom": "AC Foumban",
+        "localisation": "Porte d’entrée de la ville, au quartier Kounga",
+        "groupements": [
+          "KOUFFEN",
+          "KOUFELMOUN",
+          "KOUKOUET",
+          "MALOUM",
+          "KOUDOUN",
+          "KOUDOUNDAM",
+          "KOUOMNDAK",
+          "KOUNGNA",
+          "KOUNGOU",
+          "KOUDJITCHEU",
+          "KOUMEKAP",
+          "MAGHA",
+          "KOUMA",
+          "TAPATIP",
+          "FOMKEACKA",
+          "MACHIMA",
+          "KALAMTA",
+          "MAMFU",
+          "MACHIMBAN",
+          "MANGANG",
+          "MANGANG-MANGA",
+          "MANGANG-MANGOUO",
+          "MANGANG-MANGOUOU",
+          "NJITAPIÉ",
+          "NJIMEFOU",
+          "MOKOUNO",
+          "NJISMOM",
+          "NJIETEKIE",
+          "NJIJAM",
+          "NJI-MIRAM",
+          "NJI-MBOUOM",
+          "NJI-MBOUOM2",
+          "NJIMBO",
+          "NJINTCHOU",
+          "NJISSAM",
+          "NJISSOU",
+          "NJICHE",
+          "SHUT"
+        ]
+      },
+      {
+        "nom": "AC Foumbot",
+        "localisation": "Située sur la nationale n°6, axe Foumbot – Foumban lieu dit « Petit Paris », près du Commissariat",
+        "groupements": [
+          "FOUMBOT",
+          "NJIMBOT1",
+          "NJIMBOT2",
+          "MBANTOU",
+          "KOUNDOU",
+          "JMBIAN",
+          "FOCHIÉYA",
+          "MBAJOU",
+          "COMPANY",
+          "NJINCHA",
+          "FOSSET",
+          "BAIGOM",
+          "MAWOUFON",
+          "FOSSANG",
+          "MAKA",
+          "KOUNJA",
+          "MOMOU",
+          "KOUPKA",
+          "TENJOUON",
+          "NJIMBOT FONGUE",
+          "KWETU",
+          "KOUFEN",
+          "SOUPEN",
+          "MANGOUN"
+        ]
+      },
+      {
+        "nom": "AC Kouoptamo",
+        "localisation": "Sur la route de la Sous-préfecture, ancien bureau ONEL",
+        "groupements": [
+          "KOUOPTAMO",
+          "KOUOMBOUM",
+          "KOUCHOUTANDJOU",
+          "BATI",
+          "MORPA",
+          "BÉA",
+          "NGAMO",
+          "NGOUNDAM",
+          "NDJUMIKIN",
+          "C.C",
+          "NDJINDOM",
+          "NGBETSOEN",
+          "NUISSEN",
+          "BAIGOM-SANKIE",
+          "NGAKEU",
+          "NGAHI",
+          "NGANGOU",
+          "CHANS",
+          "NKONTCHOU",
+          "NTOUNGA",
+          "NGHAM",
+          "KOUKOU",
+          "BAMKII",
+          "BAKIZI",
+          "WAZO",
+          "NTOPO",
+          "KOUSSOH",
+          "NKOUNGA",
+          "BANKOUPT"
+        ]
+      },
+      {
+        "nom": "AC Koutaba",
+        "localisation": "Avenue des Cinquantenaires",
+        "groupements": [
+          "KOUTABA",
+          "NJIYIT",
+          "KOUTIE",
+          "KOUCHANKAP",
+          "MATABA",
+          "PONDI",
+          "MOUN",
+          "KOUMENKE",
+          "KAGNAM",
+          "KOUMELAP",
+          "DIDANGO",
+          "BAFOLE",
+          "MAPARE",
+          "NGOUEDJOU",
+          "MANGUIER"
+        ]
+      },
+      {
+        "nom": "AC Malantouen",
+        "localisation": "À côté d’Express Union",
+        "groupements": [
+          "MACHU",
+          "NAGHAM",
+          "MAKOUTAM",
+          "MAFOUATIE",
+          "MATIA",
+          "PON-MANJE",
+          "KOUTOU-MA",
+          "HOUAHA",
+          "MAMBICHAM",
+          "MARAH",
+          "MARAPNDOUM",
+          "MATACHOM",
+          "MATOUPOU",
+          "MAPOU",
+          "NJIPOUTE",
+          "MALANTOUEN VILLAGE",
+          "MANDJOU",
+          "MANGUIEMBOU",
+          "MANJOU",
+          "MANTOM",
+          "MALIEN",
+          "MAKPA2",
+          "MANKOUT MBOU",
+          "MAKPA1",
+          "MANDINGA CHEFFERIE",
+          "MANDINGA PLATEAU",
+          "MAMBOUMBOU"
+        ]
+      },
+      {
+        "nom": "AC Massangam",
+        "localisation": "Entrée du village Massangam",
+        "groupements": [
+          "MASSANGAM",
+          "MANKEBEMOUT",
+          "NJINGUOT",
+          "MAKOM",
+          "MANKOUNKOU",
+          "MAKOT",
+          "MANKOUMBI",
+          "MANSOUEN FOYOUM",
+          "MANSSOUEN MAMBAIN",
+          "MATAM",
+          "MATOCHOUAM",
+          "MANCHA",
+          "YOLO",
+          "MALOUNG",
+          "MAKPATOUM",
+          "MAYAKOUE",
+          "MANSEN",
+          "MAKOUO",
+          "CHICHI",
+          "MAGHA",
+          "MAKOUPSAP"
+        ]
+      },
+      {
+        "nom": "AC Njimom",
+        "localisation": "En contrebas de la Mosquée Centrale",
+        "groupements": [
+          "MAYO",
+          "MAGHAI",
+          "MAYOUOM",
+          "MALOURE",
+          "KOUSSAM",
+          "MAKOUETVU",
+          "MANKOUNVI"
+        ]
+      }
+    ]
+  },
+  "diamare": {
+    "nom": "Diamaré",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "Quartier Sararé, en face du Lycée technique de Maroua, même local que Maroua III"
+      },
+      {
+        "nom": "AC Bogo",
+        "localisation": "Cité Municipale de Bogo"
+      },
+      {
+        "nom": "AC Dargala",
+        "localisation": "Quartier Garre, à côté du marché Dargala (centre-ville)"
+      },
+      {
+        "nom": "AC Gazawa",
+        "localisation": "Quartier Carrefour club, face concession Lamido Bah"
+      },
+      {
+        "nom": "AC Maroua I",
+        "localisation": "Quartier Domayo, face usine SODECOTON, derrière la station Tradex"
+      },
+      {
+        "nom": "AC Maroua II",
+        "localisation": "Quartier Doulnaïré, à 40 m de l’axe principal, non loin de la sous-préfecture"
+      },
+      {
+        "nom": "AC Maroua III",
+        "localisation": "Quartier Sararé, en face du Lycée technique de Maroua"
+      },
+      {
+        "nom": "AC Meri",
+        "localisation": "Quartier Maguivele 2, au centre-ville"
+      },
+      {
+        "nom": "AC Ndoukoula",
+        "localisation": "Ndoukoula centre-ville, face résidence du député"
+      },
+      {
+        "nom": "AC Petté",
+        "localisation": "Quartier Komiré, à côté de la sous-préfecture"
+      }
+    ]
+  },
+  "logone et chari": {
+    "nom": "Logone et Chari",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "Quartier administratif, à côté de la Préfecture, ancien MINPAT"
+      },
+      {
+        "nom": "AC Blangoua",
+        "localisation": "Quartier Ardebe Massa, à côté de la grande Mosquée"
+      },
+      {
+        "nom": "AC Darak",
+        "localisation": "Quartier Blabline, non loin du poste de douanes de Darak"
+      },
+      {
+        "nom": "AC Fotokol",
+        "localisation": "Quartier Djagoumdagué, devant le centre médical d'arrondissement de Fotokol (délocalisé à Kousseri depuis 2015)"
+      },
+      {
+        "nom": "AC Goulfey",
+        "localisation": "Quartier Djagara, domicile Goni Mal Adji à 200 m du poste de police de frontière"
+      },
+      {
+        "nom": "AC Hilté-Alifa",
+        "localisation": "Quartier Goulwa Chari Kabir, ancienne Sous-préfecture"
+      },
+      {
+        "nom": "AC Kousseri",
+        "localisation": "Quartier Administratif, face école publique groupe 1 et à côté de l’hôpital de district"
+      },
+      {
+        "nom": "AC Logone-Birni",
+        "localisation": "Quartier Ngaoubta, à côté du nouveau poste frontière de la police"
+      },
+      {
+        "nom": "AC Makary",
+        "localisation": "Quartier Galmé, non loin de la mairie et de la sous-préfecture"
+      },
+      {
+        "nom": "AC Waza",
+        "localisation": "Quartier Goneré, à côté de l’antenne Orange"
+      },
+      {
+        "nom": "AC Zina",
+        "localisation": "Quartier Waliaga, à l’entrée de Zina en venant de Kousseri"
+      }
+    ]
+  },
+  "mayo-danay": {
+    "nom": "Mayo-Danay",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "Quartier administratif, à côté de la Délégation Départementale de l’Enseignement Secondaire"
+      },
+      {
+        "nom": "AC Datchéka",
+        "localisation": "Quartier administratif, derrière la Sous-préfecture"
+      },
+      {
+        "nom": "AC Gobo",
+        "localisation": "Quartier Kaïgué, à côté de la résidence de l’ancien maire et de l’ancienne brigade de gendarmerie"
+      },
+      {
+        "nom": "AC Gueme-Vele",
+        "localisation": "À côté de la résidence du Sous-préfet"
+      },
+      {
+        "nom": "AC Guere",
+        "localisation": "Quartier Ardaf, à l'Est du marché"
+      },
+      {
+        "nom": "AC Kaï-Kaï",
+        "localisation": "Quartier marché, sur l’axe Yagoua-Kaï-Kaï"
+      },
+      {
+        "nom": "AC Kalfou",
+        "localisation": "Derrière l’école publique de Kalfou, dans la résidence du percepteur"
+      },
+      {
+        "nom": "AC Kar-Hay (Doukoula)",
+        "localisation": "Quartier Casablanca, face maison de la femme, route de Crédit du Sahel"
+      },
+      {
+        "nom": "AC Maga",
+        "localisation": "Quartier commercial, non loin de l’Agence de voyage Djam-aré"
+      },
+      {
+        "nom": "AC Tchatibali",
+        "localisation": "Quartier Lere A, à côté de la résidence du Sous-préfet et en face de l’auberge la Maison Blanche"
+      },
+      {
+        "nom": "AC Wina",
+        "localisation": "En face de la nouvelle brigade de gendarmerie sur l’axe Djongdong-Hougno"
+      },
+      {
+        "nom": "AC Yagoua",
+        "localisation": "Quartier Bornoua, en face de la Délégation du MINPAT"
+      }
+    ]
+  },
+  "mayo-kani": {
+    "nom": "Mayo-Kani",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "Quartier Klelimbri, à côté de l’école publique de Klelimbri"
+      },
+      {
+        "nom": "AC Dziguilao",
+        "localisation": "Quartier Mbihouri Dziguilao, face carrefour Domba-Soueye"
+      },
+      {
+        "nom": "AC Guidiguis",
+        "localisation": "Quartier Gassel, Carrefour débrouillard, non loin de l’hôpital de district"
+      },
+      {
+        "nom": "AC Kaélé",
+        "localisation": "Quartier administratif, derrière la Délégation Départementale du Commerce"
+      },
+      {
+        "nom": "AC Mindif",
+        "localisation": "Quartier Loumoro, en face de la Sous-préfecture, derrière PTT"
+      },
+      {
+        "nom": "AC Moulvoudaye",
+        "localisation": "En face de la Commune de Moulvoudaye"
+      },
+      {
+        "nom": "AC Moutourwa",
+        "localisation": "Quartier Roum, à côté de la résidence du Sous-préfet"
+      },
+      {
+        "nom": "AC Touloum",
+        "localisation": "Proche de la mission catholique et non loin de la Mairie"
+      }
+    ]
+  },
+  "mayo-sava": {
+    "nom": "Mayo-Sava",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "Quartier Waladé, légèrement décalé en face de la permanence RDPC de Mora"
+      },
+      {
+        "nom": "AC Kolofata",
+        "localisation": "Quartier Amadou Ali, non loin de la résidence Amadou Ali (délocalisé à Mora pour raisons d’insécurité)"
+      },
+      {
+        "nom": "AC Mora",
+        "localisation": "Quartier Waladé, à l’immeuble siège de l’Agence Départementale du Mayo-Sava"
+      },
+      {
+        "nom": "AC Tokombéré",
+        "localisation": "Quartier Tokombéré Talla-Amada"
+      }
+    ]
+  },
+  "mayo-tsanaga": {
+    "nom": "Mayo-Tsanaga",
+    "centres": [
+      {
+        "nom": "Agence départementale",
+        "localisation": "Quartier Mofolé groupe 4, juxtaposé à la Délégation Départementale de l’Éducation de Base"
+      },
+      {
+        "nom": "AC Bourha",
+        "localisation": "Quartier Djimeta, à 150 m du marché"
+      },
+      {
+        "nom": "AC Hina",
+        "localisation": "Quartier Marbak, à côté du bâtiment du BIR et en face de la brigade de gendarmerie"
+      },
+      {
+        "nom": "AC Koza",
+        "localisation": "Quartier Lamorde, non loin de la brigade de gendarmerie et de la chefferie"
+      },
+      {
+        "nom": "AC Mogodé",
+        "localisation": "Quartier commercial, face Express Union Mogodé"
+      },
+      {
+        "nom": "AC Mokolo",
+        "localisation": "Quartier Mofolé, à l’immeuble siège"
+      }
+    ]
+  },
+  "bénoué": {
+    "nom": "Bénoué",
+    "centres": [
+      {
+        "nom": "AC Baschéo",
+        "localisation": "Dans le bâtiment de la sous-préfecture"
+      },
+      {
+        "nom": "AC Bibémi",
+        "localisation": "Axe Lamidat de Bibémi à 200 m de la sous-préfecture de Bibémi"
+      },
+      {
+        "nom": "AC Dembo",
+        "localisation": "Ancienne sous-préfecture de Dembo"
+      },
+      {
+        "nom": "AC Garoua I",
+        "localisation": "En face de la Délégation régionale de l’Éducation de base du Nord"
+      },
+      {
+        "nom": "AC Garoua II",
+        "localisation": "Ancienne sous-préfecture de Garoua II, à côté de la commune d’arrondissement"
+      },
+      {
+        "nom": "AC Garoua III",
+        "localisation": "Bocklé Centre, à côté de la mosquée de Lawanat"
+      },
+      {
+        "nom": "AC Gaschiga",
+        "localisation": "Face école maternelle de Gaschiga"
+      },
+      {
+        "nom": "AC Lagdo",
+        "localisation": "Entre Carrière Bar et école privée catholique de Lagdo"
+      },
+      {
+        "nom": "AC Mayo-Hourna",
+        "localisation": "En face de l’Inspection d’arrondissement de l’Éducation de base"
+      },
+      {
+        "nom": "AC Ngong",
+        "localisation": "À côté de l’antenne relais téléphonique du marché de Ngong (axe marché de bétail)"
+      },
+      {
+        "nom": "AC Pitoa",
+        "localisation": "À côté de la mairie de Pitoa"
+      },
+      {
+        "nom": "AC Touroua",
+        "localisation": "Ancienne sous-préfecture de Touroua"
+      }
+    ]
+  },
+  "faro": {
+    "nom": "Faro",
+    "centres": [
+      {
+        "nom": "AC Poli",
+        "localisation": "Quartier administratif non loin de la gendarmerie"
+      }
+    ]
+  },
+  "mayo-louti": {
+    "nom": "Mayo-Louti",
+    "centres": [
+      {
+        "nom": "AC Figuil",
+        "localisation": "Quartier Mbaringuel, derrière l’hôpital du district"
+      },
+      {
+        "nom": "AC Guider",
+        "localisation": "Quartier Bebberé I, en face de la SAR/SM sur la route de Guider-Bidzar"
+      },
+      {
+        "nom": "AC Mayo-Oulo",
+        "localisation": "Quartier Karlaye, en face de la délégation MINEPIA, à 100 m du Carrefour de la Paix"
+      }
+    ]
+  },
+  "mayo-rey": {
+    "nom": "Mayo-Rey",
+    "centres": [
+      {
+        "nom": "AC Madingring",
+        "localisation": "À côté du marché de Madingring"
+      },
+      {
+        "nom": "AC Rey-Bouba",
+        "localisation": "Ancienne commune de Rey-Bouba, à 100 m de la sous-préfecture"
+      },
+      {
+        "nom": "AC Tcholliré",
+        "localisation": "À côté de l’école maternelle d’application de Ndockvét"
+      },
+      {
+        "nom": "AC Toubouro",
+        "localisation": "À 100 m du rond-point Carrefour Ngoumi en allant vers l’usine SODECOTON, à côté du dépôt Guinness"
+      }
+    ]
+  },
+  "boyo": {
+    "nom": "Boyo",
+    "centres": [
+      {
+        "nom": "Belo",
+        "localisation": "Along the road to Njinikejem, directly opposite Express Union adjacent the MC2 microfinance"
+      },
+      {
+        "nom": "Fonfuka",
+        "localisation": "About 100 meters from the main road leading to Fonfuka Town, behind the Veterinary Centre"
+      },
+      {
+        "nom": "Fundong",
+        "localisation": "Teacher quarter Fundong, about 250 meters from the main road junction, opposite Express exchange and MC2 microfinance"
+      },
+      {
+        "nom": "Njinikom",
+        "localisation": "Along the Bambui-Funding highway, above the Njinikom Farmers Cooperative"
+      }
+    ]
+  },
+  "bui": {
+    "nom": "Bui",
+    "centres": [
+      {
+        "nom": "Elak",
+        "localisation": "100 meters from brigade Elak. Opposite the public security"
+      },
+      {
+        "nom": "Jakiri",
+        "localisation": "Hausa Quarter, Sabongari. Opposite Express Union and adjacent the Jakiri Credit Union"
+      },
+      {
+        "nom": "Kumbo",
+        "localisation": "Tobin Quarter, Adjacent DIDAVIV Primary School on the road to Mbveh"
+      },
+      {
+        "nom": "Mbiame",
+        "localisation": "Rifem Quarter, 200 meters from Mbiame market, towards the DO’s office on the way to Lip"
+      },
+      {
+        "nom": "Nkor",
+        "localisation": "Nyaali Quarter, about 400 meters from the Gendarmerie Brigade Nkor"
+      },
+      {
+        "nom": "Nkum",
+        "localisation": "Mdzenjang Quarter, 300m from the DO’s residence on the road to I.P.S Tatum"
+      }
+    ]
+  },
+  "donga-mantung": {
+    "nom": "Donga-Mantung",
+    "centres": [
+      {
+        "nom": "Ako",
+        "localisation": "Opposite the Ako market, about 50 meters from express union Ako and the Nkambe highway"
+      },
+      {
+        "nom": "Misaje",
+        "localisation": "Minister’s street, about 100m from the Nkambe highway, opposite Gendarmerie Brigade Misaje"
+      },
+      {
+        "nom": "Ndu",
+        "localisation": "Club 60 Njiningo on the road to Nkambe, some 500 meters from centre town"
+      },
+      {
+        "nom": "Nkambe",
+        "localisation": "Binju quarter behind CDE office Nkambe, opposite former Colonel’s residence"
+      },
+      {
+        "nom": "Nwa",
+        "localisation": "New Country side hotel street Nwa, adjacent New Site Hotel"
+      }
+    ]
+  },
+  "menchum": {
+    "nom": "Menchum",
+    "centres": [
+      {
+        "nom": "Benakuma",
+        "localisation": "Buyi quarter Benakuma, next to customs office, about 100 meters from Market Square Modelle"
+      },
+      {
+        "nom": "Furu-Awa",
+        "localisation": "100m from Market Square Furu-Awa, opposite Agric Store"
+      },
+      {
+        "nom": "Wum",
+        "localisation": "Post office roundabout, opposite NEXTTEL office and about 100 meters from municipal council office"
+      },
+      {
+        "nom": "Zhoa",
+        "localisation": "Kikwo quarter on the right side along the road linking the grandstand and the Mayor’s Office Zhoa, about one-minute drive from grandstand"
+      }
+    ]
+  },
+  "mezam": {
+    "nom": "Mezam",
+    "centres": [
+      {
+        "nom": "Bafut",
+        "localisation": "Njintech Quarter, same building as Express Union Bafut, 50m from municipal council office"
+      },
+      {
+        "nom": "Bali",
+        "localisation": "Ntafoang quarter, about 100 meters from the DO’s office, same building as branch police"
+      },
+      {
+        "nom": "Bamenda I",
+        "localisation": "100 meters from custom junction up station Bamenda, same building as Express Union"
+      },
+      {
+        "nom": "Bamenda II",
+        "localisation": "Sonac Street Bamenda, Former Treasury Building opposite Mitayen Cooperative Credit Union"
+      },
+      {
+        "nom": "Bamenda III",
+        "localisation": "MV building Mile 3, about 100m from farmer house along the main road to Bambui"
+      },
+      {
+        "nom": "Santa",
+        "localisation": "Santa Credit Union Building, beside Gendarmerie Brigade, Santa"
+      },
+      {
+        "nom": "Tubah",
+        "localisation": "50m from Four Corners Bambui, opposite the Muslim Mosque"
+      }
+    ]
+  },
+  "momo": {
+    "nom": "Momo",
+    "centres": [
+      {
+        "nom": "Andek",
+        "localisation": "Akuabong Quarter Andek Village Ngie Sub Division, opposite former residence of the Divisional Officer"
+      },
+      {
+        "nom": "Batibo",
+        "localisation": "MINEPIA Batibo First Branch after C.C.C Plc towards the Grandstand"
+      },
+      {
+        "nom": "Mbengwi",
+        "localisation": "GRA, just adjacent to the central police station along the major highway"
+      },
+      {
+        "nom": "Njikwa",
+        "localisation": "First branch after the Njikwa market branch on the Oshie highway, 50m from the road"
+      },
+      {
+        "nom": "Widikum",
+        "localisation": "Behind the Catholic Health Centre at Atakum quarter, directly opposite the doctor’s residence"
+      }
+    ]
+  },
+  "ngoketunjia": {
+    "nom": "Ngoketunjia",
+    "centres": [
+      {
+        "nom": "Babessi",
+        "localisation": "Chui 1 Quarter, 50m from the DO’s office on the way to Jakiri. Opposite the Government Primary School Babessi"
+      },
+      {
+        "nom": "Balikumbat",
+        "localisation": "Hausa Quarter, same building with the Balikumbat Community radio and adjacent the DO’s office"
+      },
+      {
+        "nom": "Ndop",
+        "localisation": "Long street, immediately after the bridge on the right"
+      }
+    ]
+  },
+  "fako": {
+    "nom": "Fako",
+    "centres": [
+      {
+        "nom": "Divisional Branch",
+        "localisation": "GRA Bota. Opposite National Employment Fund"
+      },
+      { "nom": "Buea", "localisation": "Beside Court of Appeal" },
+      { "nom": "Idenau", "localisation": "Bibunde, Custom building" },
+      { "nom": "Limbe I", "localisation": "Port Authority building" },
+      { "nom": "Limbe II", "localisation": "Isokolo, New Road" },
+      {
+        "nom": "Limbe III",
+        "localisation": "Mbonjo, beside paramount chief palace"
+      },
+      {
+        "nom": "Muyuka",
+        "localisation": "Makanga (Burnt) — Temporary hosted by Buea Council Branch"
+      },
+      { "nom": "Tiko", "localisation": "Opposite Grand stand" }
+    ]
+  },
+  "kupe_muanenguba": {
+    "nom": "Kupe Muanenguba",
+    "centres": [
+      {
+        "nom": "Divisional Branch",
+        "localisation": "GRA Bangem, Opposite SDO’s Office"
+      },
+      {
+        "nom": "Bangem",
+        "localisation": "Hausa quarters. Behind Police station BANGEM"
+      },
+      {
+        "nom": "Nguti",
+        "localisation": "Police Entrance office (burnt and abandoned) — Temporary hosted by BIR Office"
+      },
+      {
+        "nom": "Tombel",
+        "localisation": "Ward 9. Hospital entrance Tombel"
+      }
+    ]
+  },
+  "lebialem": {
+    "nom": "Lebialem",
+    "centres": [
+      {
+        "nom": "Divisional Branch",
+        "localisation": "Menji (Vandalized and looted) — Temporary hosted by Regional Delegation Buea"
+      },
+      {
+        "nom": "Alou",
+        "localisation": "3 Corners Alou (burnt with content)"
+      },
+      {
+        "nom": "Menji",
+        "localisation": "Cooperative quarter (burnt with content) — Temporary hosted by Buea Council Branch"
+      },
+      {
+        "nom": "Wabane",
+        "localisation": "Talung (burnt with content)"
+      }
+    ]
+  },
+  "manyu": {
+    "nom": "Manyu",
+    "centres": [
+      { "nom": "Divisional Branch", "localisation": "GRA Mamfe" },
+      {
+        "nom": "Akwaya",
+        "localisation": "Old D.O’s office — Divisional Branch Mamfe"
+      },
+      { "nom": "Eyumojock", "localisation": "Beside D.O Office" },
+      {
+        "nom": "Mamfe",
+        "localisation": "GRA, behind the Divisional Branch office of ELECAM"
+      },
+      {
+        "nom": "Tinto",
+        "localisation": "Temporary hosted by Mamfe Council Branch"
+      }
+    ]
+  },
+  "meme": {
+    "nom": "Meme",
+    "centres": [
+      {
+        "nom": "Divisional Branch",
+        "localisation": "Up Station, Beside Custom Office"
+      },
+      {
+        "nom": "Konye",
+        "localisation": "Beside Express Exchange office Fiango — Temporary hosted by Kumba Council Branch"
+      },
+      {
+        "nom": "Kumba I",
+        "localisation": "SOWEFCO Building, Adjacent Gendarmerie Buea road"
+      },
+      {
+        "nom": "Kumba II",
+        "localisation": "Beside Express Exchange office Fiango"
+      },
+      {
+        "nom": "Kumba III",
+        "localisation": "Check Point Mambanda — Temporary hosted by Meme Divisional Branch"
+      },
+      {
+        "nom": "Mbonge",
+        "localisation": "200m before Gendarmerie Mbonge"
+      }
+    ]
+  },
+  "ndian": {
+    "nom": "Ndian",
+    "centres": [
+      {
+        "nom": "Divisional Branch",
+        "localisation": "Mundemba Council Quarter Chambers — Temporary hosted by Regional Delegation Buea"
+      },
+      { "nom": "Bamusso", "localisation": "Bamusso Town" },
+      {
+        "nom": "Dikome Balue",
+        "localisation": "Gendarmerie Quarter, GRA (Burnt) — Temporary hosted by Meme Divisional Branch"
+      },
+      { "nom": "Ekondo Titi", "localisation": "Non spécifié" },
+      {
+        "nom": "Idabato",
+        "localisation": "Idabato Health post Jabane, beside the BIR camp — Temporary hosted by Jabane Health Center"
+      },
+      { "nom": "Isangele", "localisation": "Bateka west" },
+      {
+        "nom": "Kombo Abedimo",
+        "localisation": "Akwa, adjacent Kombo Abedimo Council"
+      },
+      {
+        "nom": "Kombo Itindi",
+        "localisation": "Ngosso Administrative Quarter"
+      },
+      {
+        "nom": "Mundemba",
+        "localisation": "Council Chambers Quarter — Temporary hosted by Buea Council Branch"
+      },
+      {
+        "nom": "Toko",
+        "localisation": "Beside Toko Council (vandalized and burnt)"
+      }
+    ]
+  },
+  "djerem": {
+    "nom": "Djerem",
+    "centres": [
+      {
+        "nom": "AC Ngaoundal",
+        "localisation": "Quartier Beka, en face de l’École Publique Groupe I"
+      },
+      {
+        "nom": "AC Tibati",
+        "localisation": "À côté de la délégation départementale MINESEC"
+      }
+    ]
+  },
+  "faro et deo": {
+    "nom": "Faro et Deo",
+    "centres": [
+      {
+        "nom": "AC Galim Tignère",
+        "localisation": "Quartier Foulbéré, en face de la résidence GALDIMA BAKARY LAOUL"
+      },
+      {
+        "nom": "AC Kontcha",
+        "localisation": "Quartier Miloudjaï, à côté du centre de santé"
+      },
+      {
+        "nom": "AC Mayo Baléo",
+        "localisation": "Quartier Dingti, à côté de l’ancienne brigade terre de Mayo-Baléo"
+      },
+      {
+        "nom": "AC Tignère",
+        "localisation": "Quartier résidentiel, face bureau de la douane et côté de la poste"
+      }
+    ]
+  },
+  "mayo banyo": {
+    "centres": [
+      {
+        "nom": "AC Bankim",
+        "localisation": "En bordure de route, à côté de la gendarmerie"
+      },
+      {
+        "nom": "AC Banyo",
+        "localisation": "En face de la place des fêtes"
+      },
+      {
+        "nom": "AC Mayo-Darlé",
+        "localisation": "Quartier Bonabéri, en face de la compagnie de gendarmerie"
+      }
+    ]
+  },
+  "mbere": {
+    "nom": "Mbéré",
+    "centres": [
+      {
+        "nom": "AC Dir",
+        "localisation": "Quartier marché"
+      },
+      {
+        "nom": "AC Djohong",
+        "localisation": "Quartier loba, à côté de la gendarmerie, vers l’élevage"
+      },
+      {
+        "nom": "AC Meiganga",
+        "localisation": "Quartier YELWA ABBA, à côté du camp blanc"
+      },
+      {
+        "nom": "AC Ngaoui",
+        "localisation": "Quartier Lombé, à côté de la mairie"
+      }
+    ]
+  },
+  "vina": {
+    "nom": "Vina",
+    "centres": [
+      {
+        "nom": "AC Bélel",
+        "localisation": "En face de la résidence du sous-préfet"
+      },
+      {
+        "nom": "AC Martap",
+        "localisation": "Quartier Company, à côté de la mairie"
+      },
+      {
+        "nom": "AC Mbé",
+        "localisation": "Quartier Taparé, en bordure de la nationale N°1"
+      },
+      {
+        "nom": "AC Ngan-ha",
+        "localisation": "Quartier Administratif, à côté de la Sous-Préfecture"
+      },
+      {
+        "nom": "AC Ngaoundéré I",
+        "localisation": "Quartier Résidentiel, derrière la Délégation Régionale de la Santé publique pour l’Adamaoua"
+      },
+      {
+        "nom": "AC Ngaoundéré II",
+        "localisation": "Quartier Sabongari, à côté de l’Agence AES/Sonel"
+      },
+      {
+        "nom": "AC Ngaoundéré III",
+        "localisation": "En bordure de la nationale N°1"
+      },
+      {
+        "nom": "AC Nyambaka",
+        "localisation": "Quartier Bongoss, à côté de la grande mosquée"
+      }
+    ]
+  },
+  "boumba et ngoko": {
+    "nom": "Boumba et Ngoko",
+    "centres": [
+      {
+        "nom": "AC Gari Gombo",
+        "localisation": "En face de l'École Primaire Publique groupe 1"
+      },
+      {
+        "nom": "AC Moloundou",
+        "localisation": "Rond-Point CAMPOST, Quartier administratif"
+      },
+      {
+        "nom": "AC Salapoumbé",
+        "localisation": "Quartier Administratif, en face de la Brigade de Gendarmerie"
+      },
+      {
+        "nom": "AC Yokadouma",
+        "localisation": "Quartier MOADANG, à 500 m du rond-point Éléphant et à 100 m de l'École Publique groupe 1"
+      }
+    ]
+  },
+  "haut nyong": {
+    "nom": "Haut Nyong",
+    "centres": [
+      {
+        "nom": "AC Abong Mbang",
+        "localisation": "Derrière la station JOCCIDALO (Ancien SOCAEP)"
+      },
+      {
+        "nom": "AC Angossas",
+        "localisation": "Quartier administratif, avant la Brigade de Gendarmerie"
+      },
+      {
+        "nom": "AC Atok",
+        "localisation": "En face de l’Hôtel de ville d’ATOK"
+      },
+      {
+        "nom": "AC Dimako",
+        "localisation": "Quartier TOMBO, face centre culturel MONGUI SOSOMBA"
+      },
+      {
+        "nom": "AC Doumaintang",
+        "localisation": "À côté de l’Antenne MTN, non loin de la place des fêtes"
+      },
+      {
+        "nom": "AC Doume",
+        "localisation": "À côté de la mairie de Doume"
+      },
+      {
+        "nom": "AC Lomié",
+        "localisation": "À côté de la sous-préfecture, derrière l’ancien tribunal"
+      },
+      {
+        "nom": "AC Mboma",
+        "localisation": "Centre-ville, à côté de la chefferie de 3e degré de Mboma"
+      },
+      {
+        "nom": "AC Messamena",
+        "localisation": "Quartier NYLON, derrière la résidence du sous-préfet, entrée à gauche à partir du forage"
+      },
+      {
+        "nom": "AC Messok",
+        "localisation": "Centre-ville, en face de la gare routière"
+      },
+      {
+        "nom": "AC Mindourou",
+        "localisation": "Derrière Express Union, à côté de la société PALISCO"
+      },
+      {
+        "nom": "AC Ngoyla",
+        "localisation": "Centre-ville, à l’entrée du marché"
+      }
+    ]
+  },
+  "kadey": {
+    "nom": "Kadey",
+    "centres": [
+      {
+        "nom": "AC Batouri",
+        "localisation": "Quartier élevage (centre administratif), à côté de l’ancienne Agence Départementale"
+      },
+      {
+        "nom": "AC Kentzou",
+        "localisation": "Quartier Télécentre communautaire, à côté de la Mairie"
+      },
+      {
+        "nom": "AC Kette",
+        "localisation": "Quartier Nylon, près de l’inspection de l’éducation de base"
+      },
+      {
+        "nom": "AC Mbang",
+        "localisation": "Quartier Mbang plateau, en face de la tribune officielle"
+      },
+      {
+        "nom": "AC Ndélélé",
+        "localisation": "Quartier Lycée, en face du marché"
+      },
+      {
+        "nom": "AC Nguelebok",
+        "localisation": "Quartier Administratif, à côté de la Mairie"
+      },
+      {
+        "nom": "AC Ouli",
+        "localisation": "Centre-ville, entre le marché et l’hôtel de ville"
+      }
+    ]
+  },
+  "lom et djerem": {
+    "nom": "Lom et Djerem",
+    "centres": [
+      {
+        "nom": "AC Bélabo",
+        "localisation": "Boulevard de la place de fête, entre les agences de voyage Touristique et Overline"
+      },
+      {
+        "nom": "AC Bertoua 1er",
+        "localisation": "Quartier Mokolo I, en face de la Délégation Régionale des Affaires Sociales de l’EST"
+      },
+      {
+        "nom": "AC Bertoua 2e",
+        "localisation": "Quartier ENIA, en face du jardin public, à l’entrée de l’église adventiste"
+      },
+      {
+        "nom": "AC Bétaré-Oya",
+        "localisation": "ZOEUGENE, à côté de la résidence de l’ancien chef EDOU"
+      },
+      {
+        "nom": "AC Diang",
+        "localisation": "En face de la mairie de Diang"
+      },
+      {
+        "nom": "AC Garoua-Boulaï",
+        "localisation": "À côté de la chefferie GOZA"
+      },
+      {
+        "nom": "AC Mandjou",
+        "localisation": "En face du Commissariat de Sécurité Publique de Mandjou"
+      },
+      {
+        "nom": "AC Ngoura",
+        "localisation": "À côté de la résidence de l’ancien maire ARGA Georges"
+      }
+    ]
+  },
+  "dja et lobo": {
+    "nom": "Dja et Lobo",
+    "centres": [
+      {
+        "nom": "AC Bengbis",
+        "localisation": "Quartier Madagascar, délimité au nord par le Centre Médical d’Arrondissement, à l’est par le Stade Municipal, au sud et à l’ouest par des maisons d’habitation"
+      },
+      {
+        "nom": "AC Djoum",
+        "localisation": "Quartier administratif, en face de la sous-préfecture et de l’hôtel de ville de Djoum"
+      },
+      {
+        "nom": "AC Meyomessala",
+        "localisation": "Quartier administratif, délimité au nord par la sous-préfecture, à l’est par l’hôtel de ville, au sud par la gendarmerie et à l’ouest par des maisons d’habitation"
+      },
+      {
+        "nom": "AC Meyomessi",
+        "localisation": "Quartier administratif, derrière la Mairie de Meyomessi"
+      },
+      {
+        "nom": "AC Mintom",
+        "localisation": "Quartier administratif, en face de la sous-préfecture de Mintom"
+      },
+      {
+        "nom": "AC Oveng",
+        "localisation": "Quartier LALALA, à 400 m de la mission catholique"
+      },
+      {
+        "nom": "AC Sangmelima",
+        "localisation": "Centre administratif, en face de l’hôpital de district de Sangmélima"
+      },
+      {
+        "nom": "AC Zoétélé",
+        "localisation": "Quartier Plateau, descente de la gendarmerie, en face du collège protestant"
+      }
+    ]
+  },
+  "mvila": {
+    "nom": "Mvila",
+    "centres": [
+      {
+        "nom": "AC Biwong Bane",
+        "localisation": "Quartier administratif, à côté de la sous-préfecture"
+      },
+      {
+        "nom": "AC Biwong Bulu",
+        "localisation": "Quartier Biwong, en face de la Gendarmerie"
+      },
+      {
+        "nom": "AC Ebolowa 1er",
+        "localisation": "Quartier NKO’OVOS, derrière la Boulangerie Pâtisserie TCHOFFO"
+      },
+      {
+        "nom": "AC Ebolowa 2e",
+        "localisation": "Quartier Angalé, derrière la maison de campagne de Mvondo"
+      },
+      {
+        "nom": "AC Efoulan",
+        "localisation": "Quartier administratif, en face de la sous-préfecture"
+      },
+      {
+        "nom": "AC Mengong",
+        "localisation": "Bâtiment RGF Mengong, à 30 m de la place des fêtes, entrée à droite sur l’axe Mengong-Sangmelima"
+      },
+      {
+        "nom": "AC Mvangan",
+        "localisation": "Centre-ville, bâtiment de la Mairie, au-dessus d’Express Union"
+      },
+      {
+        "nom": "AC Ngoulemakong",
+        "localisation": "Quartier Mbama, carrefour de l’hôpital, en bordure de l’axe lourd Mbalmayo-Ebolowa"
+      }
+    ]
+  },
+  "océan": {
+    "nom": "Océan",
+    "centres": [
+      {
+        "nom": "AC Akom 2",
+        "localisation": "Centre commercial, à côté du bureau des postes"
+      },
+      {
+        "nom": "AC Bipindi",
+        "localisation": "Centre commercial, ancienne sous-préfecture"
+      },
+      {
+        "nom": "AC Campo",
+        "localisation": "Quartier administratif, derrière l’école publique de Campo, rue de la garnison"
+      },
+      {
+        "nom": "AC Kribi 1er",
+        "localisation": "Quartier Massaka, derrière les services des finances et la préfecture de l’Océan"
+      },
+      {
+        "nom": "AC Kribi 2e",
+        "localisation": "Quartier Dombe, derrière le carrefour de la station-service Bocom et le marché Dombe"
+      },
+      {
+        "nom": "AC Lokoundjé",
+        "localisation": "Quartier Elogbatindi à 70 Km de Kribi sur l’axe Edéa-Kribi"
+      },
+      {
+        "nom": "AC Lolodorf",
+        "localisation": "Centre administratif, bâtiment ancien jeunesse et sports"
+      },
+      {
+        "nom": "AC Mvengue",
+        "localisation": "Centre-ville, derrière le Foyer Municipal, carrefour de la Sar SM, à 100 m du commissariat spécial"
+      },
+      {
+        "nom": "AC Niete",
+        "localisation": "Quartier Nkolmbonda, sur l’axe Ebolowa-Kribi"
+      }
+    ]
+  },
+  "vallée du ntem": {
+    "nom": "Vallée du Ntem",
+    "centres": [
+      {
+        "nom": "AC Ambam",
+        "localisation": "Rue de l’aviation, délimitée au nord par la préfecture, et au sud par la mairie d’Ambam"
+      },
+      {
+        "nom": "AC Kye-Ossi",
+        "localisation": "Quartier Akombang Douane, délimité au nord par le télécentre communautaire et au sud par le bureau de douanes"
+      },
+      {
+        "nom": "AC Ma’an",
+        "localisation": "Quartier administratif, route du lycée de Ma’an"
+      },
+      {
+        "nom": "AC Olamze",
+        "localisation": "Quartier administratif, en face de l’hôtel de ville d’Olamze"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+*code-workspace
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+*.sublime-metrics
+*.sublime-snippet
+.DS_Store

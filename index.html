@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Centres d'inscription aux listes électorales</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="script.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" href="./favicon.png" />
+
+    <style>
+      body {
+        font-family: 'Ubuntu', sans-serif;
+      }
+    </style>
+  </head>
+  <body
+    class="bg-[#fbfbf9] flex flex-col justify-between min-h-screen"
+  >
+    <section
+      class="w-full bg-[#f7f7f7] h-[40vh] md:h-[45vh] flex items-center justify-center shadow-sm"
+    >
+      <div
+        class="container mx-auto h-full flex items-center justify-center"
+      >
+        <picture class="h-full">
+          <!-- Vue desktop -->
+          <source
+            srcset="background.png"
+            media="(min-width: 768px)"
+          />
+          <!-- Vue mobile par défaut -->
+          <img
+            src="background-mobile.png"
+            alt="Hero Électoral 2025"
+            class="h-full w-auto object-contain"
+          />
+        </picture>
+      </div>
+    </section>
+
+    <!-- Main App Container -->
+    <div
+      class="px-8 py-10 rounded-2xl w-full flex-grow md:w-[600px] md:mt-8 mx-auto text-left"
+    >
+      <h2
+        class="text-2xl mb-5 sm:text-2xl md:mb-8 font-bold text-green-900"
+      >
+        📍 Trouver mon centre d’enregistrement
+      </h2>
+      <p class="text-gray-700 mb-5 text-sm sm:text-base">
+        Cette application vous permet de retrouver facilement les
+        centres d’enregistrement électoral proches de chez vous.
+      </p>
+      <!-- Formulaire Région / Département / Arrondissement -->
+      <form class="space-y-4">
+        <div class="pt-2">
+          <label
+            for="region"
+            class="block font-bold md:text-base text-gray-700 mb-1"
+            >Région</label
+          >
+          <select
+            id="region"
+            name="region"
+            class="w-full border border-gray-300 rounded-md px-4 pr-6 py-[14px] focus:outline-none focus:ring-2 focus:ring-green-900"
+          >
+            <option value="">Sélectionnez une région</option>
+          </select>
+        </div>
+
+        <div id="departement-group" class="pt-2 hidden">
+          <label
+            for="departement"
+            class="block font-bold md:text-base text-gray-700 mb-1"
+            >Département</label
+          >
+          <select
+            id="departement"
+            name="departement"
+            class="w-full border border-gray-300 rounded-md px-4 pr-6 py-[14px] focus:outline-none focus:ring-2 focus:ring-green-900"
+          >
+            <option value="">Sélectionnez un département</option>
+          </select>
+        </div>
+
+        <div id="arrondissement-group" class="pt-2 hidden">
+          <label
+            for="arrondissement"
+            class="block font-bold md:text-base text-gray-700 mb-1"
+            >Arrondissement</label
+          >
+          <select
+            id="arrondissement"
+            name="arrondissement"
+            class="w-full border border-gray-300 rounded-md px-4 pr-6 py-[14px] focus:outline-none focus:ring-2 focus:ring-green-900"
+          >
+            <option value="">Sélectionnez un arrondissement</option>
+          </select>
+        </div>
+      </form>
+      <div id="result" class="mt-6"></div>
+    </div>
+    <footer
+      id="footer"
+      class="w-full px-8 text-left text-xs text-gray-500"
+    >
+      <p class="pb-2">
+        &copy; 2025 - Tous droits réservés.
+        <a href=""></a>
+      </p>
+    </footer>
+  </body>
+</html>
